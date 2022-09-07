@@ -1,10 +1,6 @@
 # 基于SSM的选课管理系统（教务管理系统）
 
-## 获取方式
 
-扫描下方，回复关键词  ：**选课5**，
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
@@ -71,11 +67,5 @@
 
 ![目录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/%E7%9B%AE%E5%BD%95.jpg)
 
-## 5、获取方式
 
-扫描下方，回复关键词  ： “**选课5**”   
-
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
